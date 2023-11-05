@@ -44,7 +44,7 @@ Before you begin, ensure you have met the following requirements:
 3.	Use the Adafruit IO interface to analyze and understand the data from your sensors on the cloud.
 4.	Implement manual or automatic irrigation control based on soil moisture values through Adafruit IO.
 ## Demo
-Provide a link or description of how to access a live demo of your smart farming system.
+So, here is the description of how to access a live demo of our smart farming system: https://agriculturecropprediction-ch9yt2ph6zzvz3et6l23ue.streamlit.app/
 ## Contributing
 1.	Fork the repository.
 2.	Create a new branch.
