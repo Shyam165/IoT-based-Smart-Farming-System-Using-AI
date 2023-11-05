@@ -1,22 +1,4 @@
 # AI-Based Smart Farming System
-## Team Name: Tech Raiders
-### Team Members:-
-
-- Varad Agarwal (Team Lead) - Responsible for project management and system design.
-- Shyam Singh (Data Scientist) - Worked on crop recommendation algorithms and Plant diseases Prediction.
-- Yuvraj Singh Rathore (Web Developer) - Developed the Streamlit web application.
-
-## Table of Contents
-1.  Problem Statement
-2.	Project Overview
-3.	Templates and Features
-4.	Requirements
-5.	Installation
-6.	Usage
-7.	IoT Integration
-8.	Demo
-9.	Contributing
-10.	License
 ## Problem Statement
 Agriculture faces challenges in optimizing crop selection and managing plant diseases. Our project addresses these issues by using AI to recommend suitable crops based on environmental data. Additionally, it provides plant disease prediction and aims to integrate IoT for improved sensor data analysis and irrigation control, enhancing the efficiency and sustainability of farming practices.
 ## Project Overview
@@ -68,5 +50,9 @@ So, here is the description of how to access a live demo of our smart farming sy
 2.	Create a new branch.
 3.	Make your contributions.
 4.	Submit a pull request.
-## License
-This project is licensed under the [License Name] - see the LICENSE file for details.
+## Team Name: Tech Raiders
+### Team Members:-
+
+- Varad Agarwal (Team Lead) - Responsible for project management and system design.
+- Shyam Singh (Data Scientist) - Worked on crop recommendation algorithms and Plant diseases Prediction.
+- Yuvraj Singh Rathore (Web Developer) - Developed the Streamlit web application.
