@@ -27,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 4.	IoT sensors (DHT11, DS18B20, soil moisture sensor, soil NPK sensor, pH sensor).
 ## Installation
 1.	Clone the repository:
-    git clone https://github.com/yourusername/your-repo.git cd your-repo 
+    git clone https://github.com/yourusername/your-repo.git](https://github.com/Shyam165/IoT-based-Smart-Farming-System-Using-AI.git cd your-repo 
 2.	Install the required Python packages:
     pip install -r requirements.txt 
 3.	Create an Adafruit IO account and configure the necessary credentials.
