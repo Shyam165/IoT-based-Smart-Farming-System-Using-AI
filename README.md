@@ -12,6 +12,8 @@
 ## Introduction
 This project is an AI-based smart farming system that predicts suitable crops for a given set of environmental factors (temperature, humidity, pH value, potassium, nitrogen, phosphorus, rainfall level) and also offers plant disease prediction for scabs percentage in plants. It is designed to assist farmers in making informed decisions about crop selection and disease management.
 The system is built as a web application using the Streamlit library and has future plans for IoT integration. The project also utilizes Adafruit IO for cloud-based sensor data analysis and irrigation system control based on soil moisture values.
+![image](https://github.com/Shyam165/IoT-based-Smart-Farming-System-Using-AI/assets/111563134/4effe577-4765-4ae0-abc4-3f132ed3d069)
+
 ## Features
 1.	Crop recommendation based on environmental factors.
 2.	Plant disease prediction (scabs percentage).
