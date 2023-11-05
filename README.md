@@ -27,14 +27,14 @@ Before you begin, ensure you have met the following requirements:
 •	IoT sensors (DHT11, DS18B20, soil moisture sensor, soil NPK sensor, pH sensor).
 ## Installation
 1.	Clone the repository:
-git clone https://github.com/yourusername/your-repo.git cd your-repo 
+    git clone https://github.com/yourusername/your-repo.git cd your-repo 
 2.	Install the required Python packages:
-pip install -r requirements.txt 
+    pip install -r requirements.txt 
 3.	Create an Adafruit IO account and configure the necessary credentials.
 4.	Connect and set up your IoT sensors.
 ## Usage
 1.	Run the application:
-streamlit run app.py 
+    streamlit run app.py 
 2.	Input environmental factors (temperature, humidity, pH value, etc.) and get crop recommendations.
 3.	Use the plant disease prediction feature to assess the scabs percentage in plants.
 4.	For IoT integration, follow the instructions in the IoT Integration section.
