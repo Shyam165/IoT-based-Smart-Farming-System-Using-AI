@@ -17,6 +17,8 @@ The system is built as a web application using the Streamlit library and has fut
 ![crop prediction](https://github.com/Shyam165/IoT-based-Smart-Farming-System-Using-AI/assets/111563134/83572065-950c-456e-a38d-394b3dc9986d)
 ### Plant Disease Prediction
 ![Screenshot 2023-11-05 112500](https://github.com/Shyam165/IoT-based-Smart-Farming-System-Using-AI/assets/111563134/c51174ed-1899-4c68-80be-8db0a9231a92)
+### AdaFruit IO Interface: https://io.adafruit.com/YTHOR203/dashboards/piet-at-iotagri
+![Screenshot 2023-11-05 113939](https://github.com/Shyam165/IoT-based-Smart-Farming-System-Using-AI/assets/111563134/b667e938-5206-4efe-9f0a-5115b430ec08)
 
 ## Features
 1.	Crop recommendation based on environmental factors.
