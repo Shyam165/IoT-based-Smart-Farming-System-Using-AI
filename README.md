@@ -1,30 +1,30 @@
 # AI-Based Smart Farming System
 ## Table of Contents
-•	Introduction
-•	Features
-•	Requirements
-•	Installation
-•	Usage
-•	IoT Integration
-•	Demo
-•	Contributing
-•	License
+1.	Introduction
+2.	Features
+3.	Requirements
+4.	Installation
+5.	Usage
+6.	IoT Integration
+7.	Demo
+8.	Contributing
+9.	License
 ## Introduction
 This project is an AI-based smart farming system that predicts suitable crops for a given set of environmental factors (temperature, humidity, pH value, potassium, nitrogen, phosphorus, rainfall level) and also offers plant disease prediction for scabs percentage in plants. It is designed to assist farmers in making informed decisions about crop selection and disease management.
 The system is built as a web application using the Streamlit library and has future plans for IoT integration. The project also utilizes Adafruit IO for cloud-based sensor data analysis and irrigation system control based on soil moisture values.
 ## Features
-•	Crop recommendation based on environmental factors.
-•	Plant disease prediction (scabs percentage).
-•	User-friendly web application interface.
-•	Future-ready for IoT sensor integration.
-•	Cloud-based sensor data analysis using Adafruit IO.
-•	Manual and automatic irrigation control based on soil moisture.
+1.	Crop recommendation based on environmental factors.
+2.	Plant disease prediction (scabs percentage).
+3.	User-friendly web application interface.
+4.	Future-ready for IoT sensor integration.
+5.	Cloud-based sensor data analysis using Adafruit IO.
+6.	Manual and automatic irrigation control based on soil moisture.
 ## Requirements
 Before you begin, ensure you have met the following requirements:
-•	Python 3.x
-•	Required Python packages (list them and provide installation instructions).
-•	Adafruit IO account for cloud-based sensor data analysis.
-•	IoT sensors (DHT11, DS18B20, soil moisture sensor, soil NPK sensor, pH sensor).
+1.	Python 3.x
+2.	Required Python packages (list them and provide installation instructions).
+3.	Adafruit IO account for cloud-based sensor data analysis.
+4.	IoT sensors (DHT11, DS18B20, soil moisture sensor, soil NPK sensor, pH sensor).
 ## Installation
 1.	Clone the repository:
     git clone https://github.com/yourusername/your-repo.git cd your-repo 
